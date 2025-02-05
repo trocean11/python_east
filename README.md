@@ -6,6 +6,8 @@
 
 #### [Семинар 2](https://github.com/trocean11/python_east/blob/main/sem2.ipynb)
 
+#### [Семинар 3](https://github.com/trocean11/python_east/blob/main/sem3.ipynb)
+
 ### Дополнительно:
 
 #### [Ещё раз про разницу между while и while True](https://github.com/trocean11/python_east/blob/main/tasks/while_%26_while_True.ipynb)
