@@ -14,4 +14,4 @@
 
 #### [Ещё раз про разницу между while и while True](https://github.com/trocean11/python_east/blob/main/tasks/while_%26_while_True.ipynb)
 
-#### [Решения демоверсии КР](https://github.com/trocean11/python_east/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%9A%D0%A0.ipynb)
+#### [Решения демоверсии КР](https://github.com/trocean11/python_east/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%9A%D0%A0_(1).ipynb)
